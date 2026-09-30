@@ -54,8 +54,6 @@
 
 [![演示视频](https://img.shields.io/badge/▶%20B%E7%AB%99-多功能豆类播种机演示-fb7299?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV14Pas6bEMW/?share_source=copy_web&vd_source=6c446a2c349afac65ccd988e4ed9c128)
 
-> 本地视频文件 `播种机演示视频.mp4` 约 68 MB。GitHub 单文件上限为 100 MB，虽可直接提交，但会显著拉长克隆耗时，**推荐**不为 Git 跟踪该文件（`.gitignore` 中已备好对应规则，取消注释即可生效）。
-
 ---
 
 ## 🖼️ 项目展示
